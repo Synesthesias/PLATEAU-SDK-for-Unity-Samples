@@ -1,0 +1,46 @@
+.body {
+    opacity: 0.7;
+    position: absolute;
+    left: 20px;
+    bottom: 20px;
+}
+
+.body-row {
+    flex-direction: row;
+}
+
+.input {
+    width: 40px;
+    -unity-text-align: middle-right;
+    background-color: rgba(0, 190, 190, 255);
+    color: rgba(255, 255, 255, 255);
+    -unity-font-style: bold;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.action {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    background-color: rgba(255, 255, 255, 255);
+    color: rgba(0, 0, 0, 255);
+    -unity-font-style: bold;
+    width: 102px;
+}
+
+.divider {
+    height: 1px;
+    background-color: rgba(128, 128, 128, 255);
+}

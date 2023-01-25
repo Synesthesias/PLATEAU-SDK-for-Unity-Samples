@@ -1,0 +1,19 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="Manual.uss" />
+    <ui:VisualElement name="Body" class="body">
+        <ui:VisualElement name="Break" class="body-row">
+            <ui:Label text="S" display-tooltip-when-elided="true" name="InputLabel" class="input" />
+            <ui:Label text="ブレーキ／バック" display-tooltip-when-elided="true" name="ActionLabel" class="action" />
+        </ui:VisualElement>
+        <ui:VisualElement name="Divider" class="divider" />
+        <ui:VisualElement name="Accelerator" class="body-row">
+            <ui:Label text="W" display-tooltip-when-elided="true" name="InputLabel" class="input" />
+            <ui:Label text="アクセル" display-tooltip-when-elided="true" name="ActionLabel" class="action" />
+        </ui:VisualElement>
+        <ui:VisualElement name="Divider" class="divider" />
+        <ui:VisualElement name="Steering" class="body-row">
+            <ui:Label text="A/D" display-tooltip-when-elided="true" name="InputLabel" class="input" />
+            <ui:Label text="ハンドル操作" display-tooltip-when-elided="true" name="ActionLabel" class="action" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
