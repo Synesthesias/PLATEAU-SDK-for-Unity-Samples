@@ -8,7 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/GISSample/Scenes/GISSample.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
+  - enabled: 0
     path: Assets/GameSample/Scenes/GameSample.unity
     guid: e2ea7cabee024ac46bf554aba2faa142
   m_configObjects: {}
