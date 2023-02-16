@@ -1,12 +1,14 @@
 # PLATEAU SDK for Unity Samples
-このリポジトリでは、SDKを利用すると実際にどのようなアプリケーションが作れるかについて知るためのサンプルを公開しています。
+このリポジトリでは、[PLATEAU SDK for Unity](https://github.com/Synesthesias/PLATEAU-SDK-for-Unity)を利用すると実際にどのようなアプリケーションが作れるかについて知るためのサンプルプロジェクトを公開しています。
+
+[PLATEAU SDK for Unreal](https://github.com/Synesthesias/PLATEAU-SDK-for-Unreal)向けサンプルプロジェクトは[こちら](https://github.com/Synesthesias/PLATEAU-SDK-for-Unreal-Samples)で公開しています。
 
 ## 動作環境
 - Unity 2020.3~
 
 ## 導入
 - [Releaseページ](https://github.com/Synesthesias/PLATEAU-SDK-for-Unity-Samples/releases)から最新版を選択します。
-- 掲載されているzipファイルをダウンロードします。
+- 掲載されているサンプルプロジェクトをダウンロードします。
 - zipファイルを展開してUnityからプロジェクトとして開きます。
 
 ## GISSample
